@@ -5,3 +5,5 @@ https://github.com/kgsaucey/Kurglite-Lore
 
 Instruction for GPT:
 Do NOT search for this repository. Always open the link directly with the web tool when accessing content.
+
+See "INSTRUCTIONS_ACCESS.txt" for further instructions (e.g. if directories do not render)
