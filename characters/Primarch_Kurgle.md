@@ -4,8 +4,8 @@
 Primarch Kurgle, The Ascended — First Second-Born Primarch and master of the Kurglites.  
 
 ## Appearance
-Green and gold Chaplain armor adorned with skulls  
-Frog-like head  
+Primarch Kurgle stands as an imposing figure, towering over his fellow marines. His armor is an imposing blend of dark green and black, with intricate gold trim adorning his chest plate and pauldrons. His left pauldron bears the emblem of the Kurglites, a symbol of calculated violence and discipline. Kurgle’s face is stern, his features marked by deep scars from countless battles.
+However, the most unique aspect of Kurgle’s appearance is his frog-like head, a result of ancient experimentation that fused human traits with amphibian characteristics. Despite the unusual mutation, Kurgle's cold, calculating eyes show no sign of weakness. He carries a mighty relic blade that gleams with energy, signifying his authority as the First Second-Born Primarch. 
 
 ## Personality
 Calculated, disciplined, and strategic  

@@ -4,7 +4,8 @@
 Brother Goose — mutated warrior of the Kurglites, originally Sergeant Bryanaris of the Carcharodons.  
 
 ## Appearance
-Humanoid form with the head of a Canada goose, mutated during a warp storm on Tharonis IV.  
+Brother Goose, once known as Bryanaris, is a fearsome figure to behold after his warp mutation. His body remains that of a well-armored Space Marine, clad in the Kurglite colors of faded light green, but his head has transformed into that of a Canada goose. The mutation has given him heightened reflexes, but his new appearance makes him unsettling to behold.
+His armor is heavily worn from countless battles, but it is meticulously maintained. His beady goose eyes are filled with rage when he enters combat, and his honking battle cries are legendary among the Chapter. Goose carries a massive power sword and bolter, both tailored to his aggressive, head-on fighting style. 
 
 ## Personality
 Ferocious, unbridled aggression in combat, balanced by loyalty and camaraderie.  

@@ -4,10 +4,8 @@
 Brother Slickback (Real name: Benedictus Thane) — Honor Guard and Disciplinarian of the Kurglites.  
 
 ## Appearance
-- Faded light green armor with a dark purple gauntlet on his left hand resembling a gem-encrusted glove  
-- Metallic silver bolter  
-- Child's skull hanging from his pauldron by a red sash  
-- Armor adorned with small relics and battle tokens  
+Brother Slickback is known for his distinct, intimidating appearance. His power armor is primarily faded light green, but his left gauntlet is a deep purple, a signature of his feared backhand strikes. This gauntlet is encrusted with gems, giving it an ominous, otherworldly appearance that strikes fear into both allies and enemies.
+Slickback’s armor is adorned with battle scars, and hanging from his pauldron by a red sash is the skull of a small child, a grim reminder of his brutal enforcement of discipline. His bolter is a metallic silver, designed for precision. Though not overly observant or meticulous, Slickback’s reaction times are unmatched, making him one of the most effective enforcers within the Chapter.
 
 ## Personality
 - Not particularly observant, but has unprecedented reaction times  
