@@ -1,55 +1,33 @@
 # Kurglite Lore
 
-This repository contains the evolving lore, characters, and stories of the Kurglite setting.  
-It serves as the single source of truth for campaign notes, worldbuilding, and versioned narratives.
+This repository is a collection of **fan fiction lore and creative writing** centered on the Kurglites and related narratives.  
+It is not official material and is maintained purely for worldbuilding and storytelling.
 
 ---
 
 ## 📂 Repository Structure
 
 - **characters/**  
-  Individual character writeups (Primarch Kurgle, Brother Goose, Brother Slickback, etc.).
+  Contains individual character writeups and profiles.
 
 - **factions/**  
-  Information about organizations, orders, and other power blocs.
+  Notes and documents describing major groups, orders, or power blocs.
 
 - **stories/**  
-  Narrative segments and drafts, organized into arcs and versions.
+  Narrative segments, drafts, and versioned story material.
 
 - **imgs/**  
-  Maps, artwork, and other visual references.
+  Reference images, maps, or artwork.
 
 - **docx/**  
-  Exported or formatted documents.
+  Exported or formatted documents (Word or similar).
 
 - **scripts/**  
-  Utility scripts for scaffolding or managing content.
-
----
-
-## 🛠 Usage
-
-- **For Players:**  
-  Reference characters, factions, and major story events without spoilers (files marked `player-safe`).
-
-- **For Worldbuilders/DM:**  
-  Extend lore files, add session notes, and keep track of consequences or story branches.
-
-- **Versioning:**  
-  Narrative segments are tracked with explicit version numbers in `stories/` to preserve history.
-
----
-
-## 📝 Contribution Workflow
-
-1. Create or edit files in the appropriate folder.  
-2. Commit with a descriptive message (`Add Brother Slickback draft`, `Update Segment 2 v2`).  
-3. Push changes to the repo.  
-4. Optionally open a pull request for larger edits or review.
+  Utility or helper scripts related to file management or formatting.
 
 ---
 
 ## ⚠️ Notes
-
-- This repo contains **in-universe lore** and is subject to retcons/updates as the setting evolves.  
-- Not all content is player-facing; some files may contain GM-only material.  
+- All content is **fan fiction**.  
+- Purpose is **creative writing and lore development** only.  
+- File naming uses underscores (`_`) instead of spaces for consistency.  
