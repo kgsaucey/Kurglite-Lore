@@ -1,0 +1,14 @@
+# GPT Instructions – Character Files
+
+- Do NOT change or expand the content of character files.
+- Only add or enforce headers for organization.
+- Standard headers (in order):
+  1. Overview
+  2. Appearance
+  3. Personality
+  4. Background
+  5. Abilities & Gear
+  6. Relationships
+  7. Current Status
+  8. Story Notes
+- If a section has no content, leave it blank and mark it with [Empty].
