@@ -7,6 +7,7 @@
   - Focused on sensory shock, fear, fury, or doubt.  
   - Always snapped back to detached narration within a few sentences.  
   - Used to heighten immediacy, never to soften tone.  
+- Narrator perspective may align with characters being followed (Imperial, heretic, xenos). Voice must reflect their worldview without breaking immersion.  
 
 ## Diction
 - Default: formal, martial, and ritualized. Commands are clipped, precise, and repeatable.  
@@ -19,10 +20,6 @@
 - Avoid modern slang. Crudeness must still feel rooted in Imperial zeal, not casual levity.  
 
 ## Structure
-- Openings always establish hostility—through terrain, ritual, or enemy presence.  
-- Progression may follow either:  
-  - **Combat arc**: sighting → contact → breach → counterstrike → final kill.  
-  - **Atmospheric arc**: ritual, foreboding signs → sudden contact → chaotic engagement → unresolved dread.  
 - Endings:  
   - Default: solemnity (loss, vow, warning, or lingering unease).  
   - Exception: in key narrative situations, the conclusion may resolve in a clear victorious or defeated state, but must retain weight and consequence.  
@@ -38,6 +35,7 @@
   - Dialogue or chant intercut with detail should place the reader within the scene, as if the words are spoken over them.  
 - Paragraph length is unrestricted. Combat may flash by in a few lines. Anticipation may sprawl across a page.  
 - Dialogue remains concise and often isolated for maximum weight.  
+- Longer paragraphs (5–8 sentences) are recommended as the baseline. Short, clipped bursts should be used only to punctuate sudden violence, shock, or revelation.  
 
 ## Combat Texture
 - Violence is intimate, immediate, and unflinching.  
@@ -49,6 +47,7 @@
 - Sensory immersion is mandatory: sweat and salt in the eyes, iron tang of blood, stench of ruptured viscera, choking burn of smoke and ozone.  
 - Explosions are concussive. They batter lungs, shatter balance, and deafen. A brother may stumble into blackness—momentary blackout or disorientation—before dragging back into the fight.  
 - Psychic warfare compounds this, twisting senses into torment: crushing pressure, invasive voices, the sense of reality buckling until the assault breaks.  
+- Action should visibly affect the environment (walls cracking, blood soaking into soil, banners burning).  
 
 ## “Show, Don’t Tell”
 - Never label. Never declare “fear,” “brutality,” or “horror.” Demonstrate them through detail.  
@@ -57,6 +56,7 @@
 - **Atmosphere**: use sensory proof. Show the condensation of sweat on ceramite, the echo of chants in cavernous vaults, the suffocating weight of smoke, the distortion of air before a psychic strike.  
 - **Time and tension**: stretch or snap moments by description. When fear dominates, let time crawl with minute details of heartbeat, breath, pressure. When fury erupts, fracture sentences into bursts of action.  
 - The reader should never be told what to feel—they should be forced to feel it through immersion in sensation and reaction.  
+- Each chapter or major scene must open with environmental grounding: terrain, architecture, weather, light, sound, and atmosphere. Characters and enemies should be anchored in this space before combat or dialogue begins.  
 
 ## Tone Limits
 - Humor, parody, and levity are excluded. They fracture immersion.  
@@ -66,11 +66,11 @@
   - Reflections dwell on cost, consequence, and duty—not pacifist ideals or humanist grief.  
   - Space Marines’ hormone conditioning and genetic design must shape how they experience emotion. Fear of failure, shame before the Emperor, or grim acknowledgment of death are permitted. Nostalgia, regret for lost childhoods, or yearning for peace are not.  
 - When used correctly, commentary reinforces the severity of war and the burden of service without breaking character or canon.  
+- Avoid casual or “cheesy” phrasing. Prose must remain heavy, deliberate, and grim.  
 
 ## Length
 - Detail is the governing measure, not word count. Scenes must be written until the full weight of atmosphere, tension, and combat is felt.  
-- **Short stories**: often 900–1,200 words, but may extend well beyond if required to render buildup, ritual, or aftermath in full.  
-- **Longer arcs**: structured in 4–6 chapters. Each chapter is a contained escalation—ritual, tension, battle, or consequence—that drives toward a climax or dread-soaked resolution.  
 - Moments of tension or ritual may sprawl across pages. Every sense and emotion should be layered until anticipation becomes suffocating.  
 - Combat may explode and resolve quickly, but only after the buildup has stretched time. When describing kills, prolong detail until the intimacy of violence—the friction of blades, the shock of impact, the look in a dying enemy’s eyes—is delivered completely.  
 - Resolutions are never rushed. Losses, vows, warnings, or scars must be given space so the weight of cost is undeniable.  
+- Length is flexible. A story should be as long as required to fully convey its atmosphere, tension, and events.  
