@@ -1,38 +1,51 @@
 # Brother Slickback
 
-## Overview
-Brother Slickback (Real name: Benedictus Thane) — Honor Guard and Disciplinarian of the Kurglites.  
+## Personal Info (Tombstone)
+- **Name:** Brother Slickback  
+- **Alias / Callsign:** [EMPTY]  
+- **Title / Honorifics:** Honor Guard and Disciplinarian of the Kurglites  
+- **Chapter / Legion Origin:** Kurglites  
+- **Faction:** [EMPTY]  
+- **Station / Rank / Billet:** Honor Guard  
+- **Combat Specialization:** [EMPTY]  
+- **Psyker Status:** [EMPTY]  
+- **Heraldry / Insignia:** Left gauntlet deep purple, encrusted with gems, signature of feared backhand strikes  
 
-## Appearance
-Brother Slickback is known for his distinct, intimidating appearance. His power armor is primarily faded light green, but his left gauntlet is a deep purple, a signature of his feared backhand strikes. This gauntlet is encrusted with gems, giving it an ominous, otherworldly appearance that strikes fear into both allies and enemies.
-Slickback’s armor is adorned with battle scars, and hanging from his pauldron by a red sash is the skull of a small child, a grim reminder of his brutal enforcement of discipline. His bolter is a metallic silver, designed for precision. Though not overly observant or meticulous, Slickback’s reaction times are unmatched, making him one of the most effective enforcers within the Chapter.
+## Physical
+- **Physical Traits:** Distinct, intimidating appearance. Power armor primarily faded light green. Left gauntlet deep purple, encrusted with gems. Armor adorned with battle scars. Hanging from pauldron by red sash is skull of a small child.  
+- **Gene-seed Quirks / Mutations:** [EMPTY]  
+- **Notable Wounds / Bionics / Machine-spirit quirks:** [EMPTY]  
+- **Gear & Equipment:**  
+  - Bolter (metallic silver, designed for precision)  
+  - Purple gauntlet (signature weapon)  
+  - Power Armor (faded light green, decorated with scars, relics, tokens)  
+  - Weapons/Armor links:  
+    - [Power Fist](https://warhammer40k.fandom.com/wiki/Power_Fist)  
+    - [Skapulan Bolter](https://warhammer40k.fandom.com/wiki/Bolter)  
+    - [Terminator Armour](https://warhammer40k.fandom.com/wiki/Terminator_Armour)  
 
 ## Personality
-- Not particularly observant, but has unprecedented reaction times  
-- Ferocious in battle, particularly known for his brutal backhand strike  
+- **Body Language:** [EMPTY]  
+- **Mannerisms:** Ferocious in battle, particularly known for brutal backhand strike  
+- **Speech Pattern / Voice:** [EMPTY]  
+- **Motivation:** Enforcing Kurgle’s will, loyalty to Primarch Kurgle  
+- **Fears:** [EMPTY]  
+- **Triggers:** Disobedience or threats to Kurgle  
+- **Belief / Faith Nuances:** [EMPTY]  
+- **Relationships:**  
+  - Primarch Kurgle: Trusted to defend Kurgle against sudden threats, especially psychic attacks  
+  - Brother Goose: Fights alongside Goose, though with different approaches  
 
-## Background
-Not much is known about Brother Slickback's history prior to joining the Kurglites, as most of his service records are heavily redacted. It is clear, however, that he was a disciplined and highly skilled marine even before being inducted into the Chapter. He was brought into the Kurglites after Kurgle’s rebellion against the Iron Maw, though his service during this time remains a mystery.  
-After several successful campaigns within the Kurglites' 2nd Battle Company, Slickback was handpicked to join the elite Kurglite Honor Guard, an honor reserved only for the most loyal and brutal warriors. Known for his intense loyalty to Primarch Kurgle, Brother Slickback earned his reputation as a feared disciplinarian. His dark purple gauntlet—used in ferocious backhand strikes—became an infamous symbol of his enforcement of the Chapter’s rigid discipline.  
-One of Brother Slickback’s defining moments came on the planet Glaurus IV, where he saved Primarch Kurgle from a river raptor Tyranid ambush. Tackling the creature into the rocky shoreline, Slickback crushed its skull with a single strike from his dark purple gauntlet, reaffirming his place as Kurgle’s trusted protector.  
-Outside of battle, Slickback occasionally participates in routine moments of camaraderie with Kurgle and Brother Goose, such as the War Room Tussle, a sparring match that reflects their long-standing friendship and familiarity with one another.  
-
-## Abilities & Gear
-### Reputation
-Brother Slickback’s reputation as a brutal disciplinarian is well known throughout the Kurglite Chapter. While he is not known for being particularly observant or meticulous, his reaction times in battle are unparalleled. His ability to instantly respond to danger or disobedience has made him both feared and respected within the Chapter.  
-Slickback’s signature move is a backhand strike delivered with his dark purple gauntlet, a technique that has earned him countless victories in combat and ensured strict adherence to Kurgle’s commands. His dedication to enforcing Kurgle’s will has made him one of the most feared enforcers within the Chapter, and his loyalty to Kurgle is unquestionable.  
-Despite his ruthless nature, Slickback’s role as a protector was cemented when he saved Primarch Kurgle from a Tyranid ambush on Glaurus IV, crushing the creature’s skull with a single strike. This event only further solidified Slickback’s reputation as Kurgle’s most reliable and loyal defender.  
-
-### Weapons / Armor
-Brother Slickback’s power armor is a modified version of the standard Space Marine armor, adorned with faded light green tones characteristic of the Kurglites. What makes Slickback stand out, however, is his distinct dark purple gauntlet on his left hand. This gauntlet, a brutal tool of enforcement, has earned him a reputation for delivering devastating backhand strikes to his enemies—and sometimes even to those within the Chapter who fail to meet Kurgle’s high standards.  
-In addition to his purple gauntlet, Brother Slickback carries a metallic silver bolter, a highly customized firearm known for its precision and power. Hanging from his pauldron by a red sash is the skull of a small child, a grim reminder of the uncompromising nature of the Kurglites. His armor is adorned with a variety of small relics, tokens of battles past, that further solidify his fearsome reputation.  
-
-## Relationships
-- **Primarch Kurgle**: Trusted to defend Kurgle against sudden threats, especially psychic attacks.  
-- **Brother Goose**: Fights alongside Goose, though they share different approaches.  
-
-## Story Notes
-[Empty]  
-
-## Extra Categories
-[Empty]  
+## History
+- **Service Record:**  
+  - Most service records heavily redacted.  
+  - Brought into the Kurglites after Kurgle’s rebellion against the Iron Maw.  
+  - Served in 2nd Battle Company before being handpicked for Honor Guard.  
+- **Campaigns:**  
+  - Saved Primarch Kurgle from a Tyranid ambush on Glaurus IV, crushing the creature’s skull with a single strike.  
+- **Honours & Awards:** [EMPTY]  
+- **Notable Deeds / Infamy:**  
+  - Reputation as feared disciplinarian with purple gauntlet.  
+  - Known for brutal enforcement of discipline.  
+- **Kill Tally / Enemies of Note:** [EMPTY]  
+- **Current Status:** Active  
